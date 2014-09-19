@@ -1,5 +1,6 @@
-## The following set of functions can be used to store a matrix,
-## compute its inversion
+## The following set of functions can be used for creation of matrix
+## objects and calculation of its inverse value, looking up the inverse value
+## from cache, instead of repeated computation.
 
 ## Function, `makeCacheMatrix` initializes a matrix and returns
 ## a list of functions, that can be used to
